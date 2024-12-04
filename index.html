@@ -12,7 +12,7 @@
 	<script>		
 	async function init() {
 	    d3.select('svg').selectAll('*').remove();
-		const data = await d3.csv('https://raw.githubusercontent.com/Kaeldra1304/mcs410-course-browser.github.io/main/topics.csv');
+		const data = await d3.csv('https://raw.githubusercontent.com/Kaeldra1304/mcs410-course-browser/refs/heads/main/topics.csv');
 	    d3.select('svg').append('g')
             .attr('transform', "translate(500,50)")
 			.selectAll('text')
