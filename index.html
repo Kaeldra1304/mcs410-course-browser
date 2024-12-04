@@ -16,7 +16,7 @@
 	    d3.select('svg').append('g')
             .attr('transform', "translate(500,50)")
 			.selectAll('text')
-			.data(annotation_array).enter().append('text')
+			.data(data).enter().append('text')
 			.attr('font-size', '12px')
 			.attr('font-style', 'normal')
 			.attr('x', 0)
