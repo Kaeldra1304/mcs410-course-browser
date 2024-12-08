@@ -1,0 +1,12 @@
+topic 0,network,,computer,infrastructure
+topic 1,programming,iot,performance,parallel
+topic 2,text,data,,language
+topic 3,cloud,compute,service,distribute
+topic 4,data,,method,
+topic 5,,system,learn,application
+topic 6,data,visualization,programming,python
+topic 7,math,,,
+topic 8,model,,problem,regression
+topic 9,data,,database,model
+topic 10,learn,,deep,programming
+topic 11,design,software,process,

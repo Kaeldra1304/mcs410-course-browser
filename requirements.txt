@@ -1,0 +1,7 @@
+numpy==1.26.2
+beautifulsoup4==4.12.3
+bs4==0.0.2
+lda==3.0.2
+nltk==3.9.1
+PyPDF2==3.0.1
+requests==2.32.3

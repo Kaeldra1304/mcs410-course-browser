@@ -1,0 +1,12 @@
+0:network,course,computer,infrastructure
+1:programming,iot,performance,parallel
+2:text,data,make,language
+3:cloud,compute,service,distribute
+4:data,min,method,course
+5:course,system,learn,application
+6:data,visualization,programming,python
+7:math,hour,prerequisite,graduate
+8:model,include,problem,regression
+9:data,databases,database,model
+10:learn,course,deep,programming
+11:design,software,process,introduce
